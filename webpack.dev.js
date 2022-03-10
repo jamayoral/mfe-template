@@ -1,6 +1,5 @@
 const { merge } = require('webpack-merge')
 const path = require('path')
-const { MFLiveReloadPlugin } = require('@module-federation/fmr')
 
 const common = require('./webpack.common.js')
 const federationConfig = require('./federation.config.json')
