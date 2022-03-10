@@ -1,0 +1,6 @@
+{
+  "name": "template",
+  "exposes": {
+    "./App": "./src/App"
+  }
+}
